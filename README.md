@@ -2,7 +2,7 @@
 
 A bit of an offshoot idea - generating PDFs with Remotion 4.0 an visual editing!
 
-![screenshot](https://github.com/JonnyBurger/invoice-generator/assets/1629785/6243bc10-7405-47ef-8cad-34609299cb6c)
+![screenshot](screenshot.png)
 
 
 ## Commands
