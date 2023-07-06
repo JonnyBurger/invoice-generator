@@ -1,15 +1,9 @@
-# Remotion video
+# Remotion PDF invoice generator
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.gif">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+A bit of an offshoot idea - generating PDFs with Remotion 4.0 an visual editing!
 
-Welcome to your Remotion project!
+![screenshot](https://github.com/JonnyBurger/invoice-generator/assets/1629785/6243bc10-7405-47ef-8cad-34609299cb6c)
+
 
 ## Commands
 
