@@ -1,6 +1,6 @@
 # Remotion PDF invoice generator
 
-A bit of an offshoot idea - generating PDFs with Remotion 4.0 an visual editing!
+A bit of an offshoot idea - generating PDFs with Remotion 4.0 and visual editing!
 
 ![screenshot](screenshot.png)
 
